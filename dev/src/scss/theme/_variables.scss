@@ -8,7 +8,7 @@ $base_background_color: 			#fff;
 //*-----------------------------------------
 //* Base Color
 //*-----------------------------------------
-$header_background_color: 			shade($primary_color, 50%);
+$header_background_color: 			shade($primary_color, 20%);
 $logo_text_color: 					#fff;
 $menu_text_color: 					#fff;
 $showcase_text_color: 				#fff;
@@ -17,7 +17,7 @@ $top_text_color: 					#fff;
 $top_background_color: 				shade($primary_color, 60%);
 $footer_text_color: 				#fff;
 $footer_background_color: 			shade($primary_color, 80%);
-$featured_label_color: 				#F4C445;
+$featured_label_color: 				#333;
 
 //*-----------------------------------------
 //* Font

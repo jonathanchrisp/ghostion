@@ -6224,7 +6224,7 @@ img {
 }
 
 #at_header {
-  background: #005733;
+  background: #333;
 }
 #at_header .top-bar, #at_header .top-bar-section ul {
   background: transparent;
@@ -6340,7 +6340,7 @@ ul.off-canvas-list li label {
 
 #at_top {
   color: white;
-  background: #004628;
+  background: #333;
 }
 #at_top .at_block {
   padding: 0 1rem;
@@ -6370,7 +6370,7 @@ ul.off-canvas-list li label {
 
 #at_footer {
   color: white;
-  background: #002214;
+  background: #333;
   font-size: 13px;
 }
 
