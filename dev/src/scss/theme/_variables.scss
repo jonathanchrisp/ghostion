@@ -2,21 +2,22 @@
 //* Main Color
 //*-----------------------------------------
 $primary_color: 					#00AF66;
+$secondary_color:                   #333;
 $base_text_color: 					#686868;
 $base_background_color: 			#fff;
 
 //*-----------------------------------------
 //* Base Color
 //*-----------------------------------------
-$header_background_color: 			shade($primary_color, 20%);
+$header_background_color: 			$secondary_color;
 $logo_text_color: 					#fff;
 $menu_text_color: 					#fff;
 $showcase_text_color: 				#fff;
-$showcase_background_color: 		shade($primary_color, 50%);
+$showcase_background_color: 		shade($primary_color, 40%);
 $top_text_color: 					#fff;
-$top_background_color: 				shade($primary_color, 60%);
+$top_background_color: 			    $secondary_color;
 $footer_text_color: 				#fff;
-$footer_background_color: 			shade($primary_color, 80%);
+$footer_background_color: 			$secondary_color;
 $featured_label_color: 				#333;
 
 //*-----------------------------------------
